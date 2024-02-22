@@ -1,0 +1,6 @@
+@Desafio.KeyWorks_HostAddress = http://localhost:5133
+
+GET {{Desafio.KeyWorks_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
